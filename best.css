@@ -1,0 +1,48 @@
+h1{
+	color: #0080fe;
+	text-align: center;
+	font-size:50px;
+}
+body{
+	background-color: #48494B;
+
+}
+h2{
+	color:#7852A9;
+	text-align: left;
+	font-size:26px;
+}
+p{
+	color:white;
+	text-align: left;
+ 	font-size:18px;
+}
+h4{
+	color: white;
+}
+ul ,li{
+	color:white;
+	text-align: left;
+	
+	font-size:18px;
+}
+a,	img{
+	height: 250px;
+	width: 250px;
+	color: red;
+	text-decoration:none;
+	
+}
+a:hover {
+	text-decoration:underline;
+	
+}
+
+#img1 img{
+	height: 30px;
+	width: 60px;
+}
+span{
+	color: yellow;
+
+}
